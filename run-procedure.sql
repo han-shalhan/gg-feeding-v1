@@ -34,3 +34,6 @@ CALL `gg-gcp.temp_dataset.home_residence_processing`(
   DATE '2025-03-01', -- End Date Filter for Traffic
   'gg-dataset.mw_dataset.mob_feb_25_final' --  residence location final result
 );
+
+
+-----------------------------------------------------  [ END OF PROCEDURE ] --------------------------------------------------------------------
